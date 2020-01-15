@@ -10,7 +10,7 @@ import UIKit
 
 struct Constants {
   
-    static let baseURLString = "https://raw.githubusercontent.com/hardik38737/mobile-test/master/data/"
+    static let baseURLString = "https://raw.githubusercontent.com/hardik38737/SampleExample/master/data/"
     
     enum Method : String {
         case categories = "categories.json"
